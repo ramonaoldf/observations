@@ -28,7 +28,7 @@ This software is free to use but you are welcome to <a href="https://www.buymeac
 
 ![Student Observations App](docs/screenshots/observations.png)
 
-See the [User Manual](https://github.com/ttulka/observations/wiki/User-Manual) for more details.
+See the [User Manual](https://github.com/ramonaoldf/observations/wiki/User-Manual) for more details.
 
 ## Platform support
 
@@ -43,7 +43,7 @@ See the [User Manual](https://github.com/ttulka/observations/wiki/User-Manual) f
 
 The main reason to support Linux unofficially is the variety of distribution. We can't really ensure to run everywhere but we try hard.
 
-Please [contact us](https://github.com/ttulka/observations/issues) when facing any issues - your feedback is highly valuable!
+Please [contact us](https://github.com/ramonaoldf/observations/issues) when facing any issues - your feedback is highly valuable!
 
 
 ## Installation
@@ -54,22 +54,19 @@ Follow the installation instructions for your platform:
 
 ### On Windows 
 
-1. [Download the archive](https://github.com/ttulka/observations/releases/download/alpha-0.2.0/observations-windows-alpha-0.2.0.zip)
-2. Unpack it into any directory (e.g. `C:\Users\<user>\`)
-3. Open the directory and run the `observations.exe` executable
-4. (optional) Create a shortcut of the `observation.exe` file and copy it to the Desktop
+1. Unpack it into any directory (e.g. `C:\Users\<user>\`)
+2. Open the directory and run the `observations.exe` executable
+3. (optional) Create a shortcut of the `observation.exe` file and copy it to the Desktop
 
 ### On Mac
 
-1. [Download the installer package](https://github.com/ttulka/observations/releases/download/alpha-0.2.0/StudentObservations-Installer-macos-alpha-0.2.0.dmg)
-2. Open the installer and move the app into the Applications
-3. Run the app from the Applications
+1. Open the installer and move the app into the Applications
+2. Run the app from the Applications
 
 ### On Linux (Ubuntu)
 
-1. [Download the archive](https://github.com/ttulka/observations/releases/download/alpha-0.2.0/observations-linux-alpha-0.2.0.zip)
-2. Unpack it into any directory
-3. Open the directory and run the `observations` executable
+1. Unpack it into any directory
+2. Open the directory and run the `observations` executable
 
 #### Prerequisites:
 
@@ -94,4 +91,4 @@ Contributions and translations are very welcome! Please make sure your change wo
 
 ## License 
 
-[MIT](https://github.com/ttulka/observations/blob/main/LICENSE)
+[MIT](https://github.com/ramonaoldf/observations/blob/main/LICENSE)
